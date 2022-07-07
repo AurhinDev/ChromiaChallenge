@@ -116,7 +116,7 @@ contract CollateralizedLeverage {
 
     /*
         BONUS: Assuming that the exchange rate between token A and token X will be the same. What is the maximum period it is advised to issue a loan? I.E. Is there a moment where collateral will be lower than principal+interest?
-        ANSWER: 
+        ANSWER: With a 5% interest rate per month from the base amount the maximum advised loan period is 20 months (5% * 20 = 100%)
     */
 
 }       
